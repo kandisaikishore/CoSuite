@@ -1,20 +1,32 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# CoSuite
 
-# Run and deploy your AI Studio app
+A software project for a suite of collaborative or workspace-oriented workflows. Consult the source and screens to identify the exact functionality currently implemented.
 
-This contains everything you need to run your app locally.
+## Overview
 
-View your app in AI Studio: https://ai.studio/apps/fda23321-1dcb-493f-b3a0-309abde95203
+This repository is intended to be understandable to developers, reviewers, and potential collaborators through clear setup instructions, documented capabilities, and an honest account of the implementation's scope.
 
-## Run Locally
+## Getting started
 
-**Prerequisites:**  Node.js
+```bash
+git clone https://github.com/saikishore2410/CoSuite.git
+cd CoSuite
+```
 
+Install the required runtime and dependencies according to the manifests and setup files in this repository. Configure environment variables locally and never commit secret values.
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## Quality checklist
+
+- Explain core user journeys and roles
+- Verify responsive behaviour and accessibility
+- Add tests for important business rules
+- Document data persistence and access control
+- Include deployment and rollback instructions
+
+## Contributions
+
+Open issues for defects or proposals and keep pull requests scoped and testable.
+
+## License
+
+No license is specified. Add a `LICENSE` file to define permitted reuse.
