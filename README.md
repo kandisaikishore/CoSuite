@@ -4,7 +4,7 @@ A software project for a suite of collaborative or workspace-oriented workflows.
 
 ## Overview
 
-This repository is intended to be understandable to developers, reviewers, and potential collaborators through clear setup instructions, documented capabilities, and an honest account of the implementation's scope.
+This repository is intended to be understandable to developers, reviewers, and potential collaborators through clear setup instructions and an honest account of the implementation's scope.
 
 ## Getting started
 
