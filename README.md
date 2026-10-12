@@ -1,5 +1,10 @@
 # CoSuite
 
+## Live Demo / Deployment URL
+
+**Deployment URL:** Not verified yet. Add the confirmed public application URL here after checking the live service. The GitHub repository link is not a deployment URL.
+
+
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?logo=github)](https://github.com/saikishore2410/CoSuite) [![Issues](https://img.shields.io/github/issues/saikishore2410/CoSuite)](https://github.com/saikishore2410/CoSuite/issues) [![Last Commit](https://img.shields.io/github/last-commit/saikishore2410/CoSuite)](https://github.com/saikishore2410/CoSuite/commits/main)
 
 > A software project for a suite of collaborative or workspace-oriented workflows. Consult the source and screens to identify the exact functionality currently implemented.
